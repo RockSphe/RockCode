@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RockSphe
+- 👋 Hi, I’m @RockCode
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on MeetUp, Teams, Messanger etc
